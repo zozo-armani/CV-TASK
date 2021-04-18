@@ -1,2 +1,1 @@
-# CV-TASK
-Styling my cv with html and css only
+https://zozo-armani.github.io/CV-TASK/
